@@ -1,0 +1,7 @@
+# GET http://localhost:5000/api/items
+
+POST http://localhost:5000/api/items
+content-type: application/json
+{
+	"ceva": "wow"
+}
